@@ -1,0 +1,19 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  .planta {
+    position: absolute;
+    transform: rotate(-90deg);
+    right: -20px;
+    width: 50%; /* Ajuste conforme necessário */
+    height: 100%; /* Ajuste conforme necessário */
+   background-image: url(../../../public/image-detail.png);
+   background-repeat: no-repeat;
+   background-position:center ;
+   background-size:contain;
+  
+  
+}
+  }
